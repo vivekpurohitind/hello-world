@@ -1,3 +1,3 @@
 # hello-world
-actaully hello world is full IT
+Hello Git Hub 
 Done
